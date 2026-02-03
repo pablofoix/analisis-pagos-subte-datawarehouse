@@ -78,7 +78,7 @@ Script: `04_carga_datawarehouse.py`
 ## 🗄️ Data Warehouse
 
 Base de datos en **SQL Server** modelada en esquema estrella:
-![dashboard]/Modelo-Estrella.png
+!dashboard/Modelo-Estrella.png
 
 ## Dimensiones
 - `Tiempo`
