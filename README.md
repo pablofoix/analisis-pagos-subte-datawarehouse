@@ -107,28 +107,6 @@ El archivo `dashboard/powerbi_dashboard.pbix` contiene visualizaciones interacti
 
 ---
 
-## ▶️ Cómo ejecutar el proyecto
-```bash
-1️⃣ Clonar repositorio
-git clone https://github.com/tuusuario/subte-molinetes-dw.git
-cd subte-molinetes-dw
-
-2️⃣ Crear entorno virtual
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-
-3️⃣ Ejecutar pipeline
-python scripts/01_concatenacion_csvs.py
-python scripts/02_normalizacion_datos.py
-python scripts/03_limpieza_datos.py
-python scripts/04_carga_datawarehouse.py
-
-4️⃣ Abrir Power BI
-dashboard/powerbi_dashboard.pbix
-
----
-
 ##📌 Aprendizajes clave
 Construcción de pipelines ETL reproducibles
 
@@ -148,6 +126,29 @@ Incorporar tests de calidad de datos
 Parametrizar conexión a DB por entorno
 
 Orquestar pipeline con Airflow o Prefect
+
+## ▶️ Cómo ejecutar el proyecto
+```bash
+1️⃣ Clonar repositorio
+git clone https://github.com/tuusuario/subte-molinetes-dw.git
+cd subte-molinetes-dw
+
+2️⃣ Crear entorno virtual
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+
+3️⃣ Ejecutar pipeline
+python scripts/01_concatenacion_csvs.py
+python scripts/02_normalizacion_datos.py
+python scripts/03_limpieza_datos.py
+python scripts/04_carga_datawarehouse.py
+
+4️⃣ Abrir Power BI
+dashboard/powerbi_dashboard.pbix
+```bash
+
+---
 
 ##👤 Autor
 Pablo Foix
