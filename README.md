@@ -107,25 +107,31 @@ El archivo `dashboard/powerbi_dashboard.pbix` contiene visualizaciones interacti
 
 ---
 
-##📌 Aprendizajes clave
-Construcción de pipelines ETL reproducibles
+##📌 **Aprendizajes clave**
 
-Normalización de datasets reales con inconsistencias semánticas
+- Construcción de pipelines ETL reproducibles
 
-Modelado dimensional (modelo estrella)
+- Normalización de datasets reales con inconsistencias semánticas
 
-Integración Python → SQL Server → Power BI
+- Modelado dimensional (modelo estrella)
 
-Manejo de claves foráneas y cargas idempotentes
+- Integración Python → SQL Server → Power BI
 
-##🚀 Posibles mejoras futuras
-Automatizar coordenadas geográficas vía API
+- Manejo de claves foráneas y cargas idempotentes
 
-Incorporar tests de calidad de datos
+---
 
-Parametrizar conexión a DB por entorno
+##🚀 **Posibles mejoras futuras**
 
-Orquestar pipeline con Airflow o Prefect
+- Automatizar coordenadas geográficas vía API
+
+- Incorporar tests de calidad de datos
+
+- Parametrizar conexión a DB por entorno
+
+- Orquestar pipeline con Airflow o Prefect
+
+---
 
 ## ▶️ Cómo ejecutar el proyecto
 ```bash
