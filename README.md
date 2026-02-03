@@ -107,7 +107,7 @@ El archivo `dashboard/powerbi_dashboard.pbix` contiene visualizaciones interacti
 
 ---
 
-##📌 **Aprendizajes clave**
+## 📌 **Aprendizajes clave**
 
 - Construcción de pipelines ETL reproducibles
 
@@ -121,7 +121,7 @@ El archivo `dashboard/powerbi_dashboard.pbix` contiene visualizaciones interacti
 
 ---
 
-##🚀 **Posibles mejoras futuras**
+## 🚀 **Posibles mejoras futuras**
 
 - Automatizar coordenadas geográficas vía API
 
@@ -156,7 +156,7 @@ dashboard/powerbi_dashboard.pbix
 
 ---
 
-##👤 Autor
+## 👤 Autor
 Pablo Foix
 Data Analyst / Data Engineering Jr
 📫 Contacto: (pabloffoix@gmail.com)
