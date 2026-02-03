@@ -146,11 +146,7 @@ python scripts/04_carga_datawarehouse.py
 
 4️⃣ Abrir Power BI
 dashboard/powerbi_dashboard.pbix
-
-
-
-
-
+```
 
 ---
 
