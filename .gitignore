@@ -1,0 +1,7 @@
+data/processed/dataset_concat.csv data/processed/dataset_final.csv data/processed/dataset_normalizado.csv
+# Datos procesados
+data/processed/
+
+# Python
+__pycache__/
+.venv/
