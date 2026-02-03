@@ -78,7 +78,7 @@ Script: `04_carga_datawarehouse.py`
 ## 🗄️ Data Warehouse
 
 Base de datos en **SQL Server** modelada en esquema estrella:
-!dashboard/Modelo-Estrella.png
+![Modelo](dashboard/Modelo-Estrella.png)
 
 ## Dimensiones
 - `Tiempo`
@@ -108,9 +108,8 @@ El archivo `dashboard/powerbi_dashboard.pbix` contiene visualizaciones interacti
 ---
 
 ## ▶️ Cómo ejecutar el proyecto
-
-1️⃣ Clonar repositorio
 ```bash
+1️⃣ Clonar repositorio
 git clone https://github.com/tuusuario/subte-molinetes-dw.git
 cd subte-molinetes-dw
 
